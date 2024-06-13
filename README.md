@@ -1,11 +1,11 @@
 # CupcakeParty 🧁
 
-This repository of __CupcakeParty__ is made using Java. It is a simple application that uses simple simple addition and subctraction . It uses the basic concepts of programming like:
+This repository of __CupcakeParty__ is made using Java. It is a simple application that uses simple addition and subtraction . It uses the basic concepts of programming like:
 - Scanner Text Inputs
 - Addition
-- Substraction
+- Subtraction
 - Variables
-- poroblem solving skills
+- problem solving skills
 
 This code provides a simple implementation of an Addition and Subtraction application that tracks leftover cupcakes.
 
